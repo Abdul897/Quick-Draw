@@ -1,0 +1,8 @@
+body{
+    background-color: chocolate;
+}
+.score{
+font-weight: bold;
+font-style: inherit;
+float: right;
+}
